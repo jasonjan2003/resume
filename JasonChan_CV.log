@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.29)  8 AUG 2023 12:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.29)  21 SEP 2023 13:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -288,7 +288,6 @@ Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \TX@cols=\count275
 \TX@ftn=\toks24
 )
-(C:\Program Files\MiKTeX\tex/generic/pdftex\glyphtounicode.tex)
 (C:\Users\cchan\AppData\Roaming\MiKTeX\tex/latex/hyphenat\hyphenat.sty
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language80
@@ -302,24 +301,24 @@ File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 (JasonChan_CV.aux)
 \openout1 = `JasonChan_CV.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 110.
-LaTeX Font Info:    ... okay on input line 110.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 115.
+LaTeX Font Info:    ... okay on input line 115.
  (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count277
@@ -334,7 +333,7 @@ LaTeX Font Info:    ... okay on input line 110.
 \makeMPintoPDFobject=\count282
 \everyMPtoPDFconversion=\toks26
 )
-Package hyperref Info: Link coloring OFF on input line 110.
+Package hyperref Info: Link coloring OFF on input line 115.
  (JasonChan_CV.out) (JasonChan_CV.out)
 \@outlinefile=\write3
 \openout3 = `JasonChan_CV.out'.
@@ -342,23 +341,23 @@ Package hyperref Info: Link coloring OFF on input line 110.
 
 
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
-(Font)              using `OT1/cmr/bx/n' instead on input line 116.
+(Font)              using `OT1/cmr/bx/n' instead on input line 121.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 119.
+(Font)              <7> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 119.
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 11
-9.
+(Font)              <5> on input line 124.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
+4.
 (C:\Program Files\MiKTeX\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 131.
+(Font)              <10.95> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 131.
+(Font)              <8> on input line 141.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 131.
+(Font)              <6> on input line 141.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -368,6 +367,11 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/cchan/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 3735) in paragraph at lines 208--208
+[]\OT1/cmr/m/n/10.95 Vertical milling ma-chines (CNC, man-ual), Lathe work (CNC
+, man-ual; metal),
+ []
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -376,11 +380,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [2
 
 ]
-Underfull \hbox (badness 3735) in paragraph at lines 267--267
-[]\OT1/cmr/m/n/10.95 Vertical milling ma-chines (CNC, man-ual), Lathe work (CNC
-, man-ual; metal),
- []
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -396,13 +395,13 @@ L3 programming layer <2023-06-16>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `JasonChan_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 85672361145705F02D62315A89AD50BB;946.
+(rerunfilecheck)             Checksum: 551402781E080F036E3490782856755E;946.
  ) 
 Here is how much of TeX's memory you used:
- 10650 strings out of 476036
- 166492 string characters out of 5789639
+ 10646 strings out of 476036
+ 166285 string characters out of 5789639
  1878763 words of memory out of 5000000
- 31247 multiletter control sequences out of 15000+600000
+ 31245 multiletter control sequences out of 15000+600000
  518979 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,323b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -413,7 +412,7 @@ pe1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/am
 sfonts/cm/cmr8.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
 10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Pr
 ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on JasonChan_CV.pdf (3 pages, 127946 bytes).
+Output written on JasonChan_CV.pdf (3 pages, 128732 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  13 named destinations out of 1000 (max. 500000)

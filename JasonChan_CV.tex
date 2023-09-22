@@ -64,6 +64,11 @@
 
 %-------------------------
 % Custom commands
+
+\newcommand{\GPA}[1]{%
+  , GPA: #1/4.0
+}
+
 \newcommand{\resumeItem}[1]{
   \item\small{
     {#1 \vspace{-2pt}}
@@ -120,15 +125,20 @@
 \end{center}
 %-----------SUMMARY-----------
 \section{SUMMARY}
+\begin{comment}
+Experienced in design, analysis, and verification of optical and mechanical systems in multiphase fluids research.
+\end{comment}
 Experienced in flow boiling experiments using optical measurement techniques. Familiar with SolidWorks, MATLAB, LabVIEW and Zemax.
-
+\begin{comment}
+Familiar with SolidWorks, MATLAB, and LabVIEW for structural and thermal simulation, experiment and analysis.
+\end{comment}
 
 %-----------EDUCATION-----------
 \section{EDUCATION}
     \resumeSubHeadingListStart
       \resumeSubheading
        {University of Wisconsin - Madison}{Madison, WI}
-       {PhD in Mechanical Engineering}{Expected graduation Dec. 2023}
+       {PhD in Mechanical Engineering\GPA{3.8}}{Expected graduation Dec. 2023}
     
       \resumeSubheading
         {University of Wisconsin - Madison}{Madison, WI}
@@ -177,54 +187,27 @@ Experienced in flow boiling experiments using optical measurement techniques. Fa
         \resumeItem{Developed MATLAB-based image processing program to characterize the alignment of carbon nanotubes deposited in a high-shear flow for next-generation transistors.}
         \resumeItem{Co-authored 2 publications in peer-reviewed scientific journals.}
     \resumeItemListEnd
-
     \resumeSubHeadingListEnd 
 \clearpage
-%-----------PROJECTS-----------
-\section{PUBLICATIONS}
-\begin{itemize}
-\itemsep0em
-
-    \item \small  J. Chan, R. W. Morse, E. T. Hurlburt, K. M. Dressler, G. F. Nellis, A. Berson (in progress). \textit{Liquid-Film Flow Rate From Measurements of Disturbance Wave Characteristics for Applications in Thin Film Flow.} Experiments in Fluids.
-
-    \item \small  R. W. Morse, J. Chan, E. T. Hurlburt, J.M. Le Corre, A. Berson, G. F. Nellis, K. M. Dressler (under review). \textit{A new paradigm for the role of disturbance waves and wall heat transfer in annular two-phase flow.} International Journal of Heat and Mass Transfer.
-    
-    \item \small  R. W. Morse, J. Chan, K. M. Dressler, E. T. Hurlburt, G. F. Nellis, and A. Berson (under review). \textit{Critical heat flux, liquid-film dryout, and disturbance waves under pulsed vapor conditions in two-phase annular flow.} Experimental Thermal and Fluid Science. 
-  
-    \item \small  R. W. Morse, T.A. Moreira, J. Chan, K. M. Dressler, G. Ribatski, E. T. Hurlburt, L.L. McCarroll, G. F. Nellis, and A. Berson (2021). \textit{Critical Heat Flux and the Dryout of Liquid Film in Two-phase Annular Flow.} Int. J. Heat Mass and Mass Transfer.
-    
-    \item \small Jason Chan (2020). \textit{Thermoreflectance for the Instantaneous Measurement of Temperature at a Wall-Vapor Interface.} Master's thesis. University of Wisconsin - Madison.
-    
-    \item \small B. F. Fehring, R. W. Morse, J. Chan, K. Dressler, E. T. Hurlburt, G. F. Nellis, and A. Berson (2020). \textit{Instantaneous optical measurement of the temperature at the interface between a wall and a thin liquid film.} Journal of Heat Transfer.
-    
-    \item \small K. R. Jinkins, J. Chan, R. M. Jacobberger, A. Berson, and M. S. Arnold (2018). \textit{Substrate-Wide Confined Shear Alignment of Carbon Nanotubes for Thin Film Transistors.} Advanced Electronic Materials.
-    
-    \item \small K. R. Jinkins, J. Chan, G. J. Brady, K. K. Gronski, P. Gopalan, H. T. Evensen, A. Berson, and M. S. Arnold (2017). \textit{Nanotube Alignment Mechanism in Floating Evaporative Self-Assembly.} Langmuir.
-
-\end{itemize}
-%%%%%%%%%%%%%%
-\section{CONFERENCE PROCEEDINGS}
-\begin{itemize}
-\itemsep0em 
-  \item \small  J. Chan, R. W. Morse, K. Dressler, G. F. Nellis, A. Berson.  \textit{Liquid-Film Flow Rate From Measurements of Disturbance Wave Characteristics for Applications in Two-Phase Annular Flow.} ASME Summer Heat Transfer Conference. Washington, DC. 2023
-
-  \item \small J. Chan, B. Fehring, R. W. Morse, K. M. Dressler, G. F. Nellis, A. Berson. \textit{Thermoreflectance Wall Temperature Measurement in Annular Two-Phase Flow.} APS Division of Fluid Dynamics. Atlanta, GA. 2018.
-
-  
-\end{itemize}
-%\clearpage
-\section{REFERENCES}
-\begin{itemize}
-\itemsep0em 
-  \item[] \small \textbf{Prof. Gregory F. Nellis} - Solar Energy Lab at UW-Madison\\
-  Email: gfnellis@engr.wisc.edu
-  \item[] \small \textbf{Dr. Evan T. Hurlburt} - Naval Nuclear Laboratory\\
-  Email: evan.hurlburt@unnpp.gov
-  \item[] \small \textbf{Dr. Jean-Marie LeCorre} - Westinghouse \\
-  Email: lecorrjm@westinghouse.com
-  \item[] \small \textbf{Dr. Tiago A. Moreira} - Thermal Hydraulics Laboratory at UW-Madison\\
-  Email: tmoreira@wisc.edu
-\end{itemize}
+%-----------SKILLS-----------
+\newcommand{\skillsListItem}[2]{
+ \item \textbf{#1}
+        \begin{itemize}[label={}]\vspace{-4pt}
+          \item #2
+        \end{itemize}
+}
+\newcommand{\interestsListItem}[2]{
+    \item{
+    \makebox[3cm][l]{\textbf{#1}}
+    \parbox[t]{.8\textwidth}{#2}}
+}
+\section{SKILLS}
+ \begin{itemize}[leftmargin=0.15in, label={}] \vspace{0pt}
+    \interestsListItem{Programming}{LabVIEW, MATLAB, Python, Fortran, Bash, Git, JavaScript, \LaTeX}
+    \interestsListItem{Applications}{EES, ANSYS Fluent, Zemax, Adobe Illustrator}
+    \interestsListItem{Fabrication}{Vertical milling machines (CNC, manual), Lathe work (CNC, manual; metal), Woodworking, 3D Printing, Electronics soldering, MIG \& TIG Welding, Laser cutting, Sheet metal work, Proof-of-concept prototypes}
+    \interestsListItem{Language}{Mandarin Chinese (native), English (fluent), Japanese (conversational)}
+ \end{itemize}
 
 %-----------EXPERIENCE-----------
 \section{TEACHING EXPERIENCES}
@@ -247,26 +230,41 @@ Experienced in flow boiling experiments using optical measurement techniques. Fa
      \resumeItemListEnd   
   \resumeSubHeadingListEnd
 
+%-----------PROJECTS-----------
+\section{PUBLICATIONS}
+\begin{itemize}
+\itemsep0em
 
-%-----------Computer SKILLS-----------
-\newcommand{\skillsListItem}[2]{
- \item \textbf{#1}
-        \begin{itemize}[label={}]\vspace{-4pt}
-          \item #2
-        \end{itemize}
-}
-\newcommand{\interestsListItem}[2]{
-    \item{
-    \makebox[3cm][l]{\textbf{#1}}
-    \parbox[t]{.8\textwidth}{#2}}
-}
-\section{SKILLS}
- \begin{itemize}[leftmargin=0.15in, label={}] \vspace{0pt}
-    \interestsListItem{Programming}{LabVIEW, MATLAB, Python, Fortran, Bash, Git, JavaScript, \LaTeX}
-    \interestsListItem{Applications}{EES, ANSYS Fluent, Zemax, Adobe Illustrator}
-    \interestsListItem{Fabrication}{Vertical milling machines (CNC, manual), Lathe work (CNC, manual; metal), Woodworking, 3D Printing, Electronics soldering, MIG \& TIG Welding, Laser cutting, Sheet metal work, Proof-of-concept prototypes}
-    \interestsListItem{Language}{Mandarin Chinese (native), English (fluent), Japanese (conversational)}
- \end{itemize}
+    \item \small  J. Chan, R. W. Morse, E. T. Hurlburt, K. M. Dressler, G. F. Nellis, A. Berson (in progress). \textit{Liquid-Film Flow Rate From Measurements of Disturbance Wave Characteristics for Applications in Thin Film Flow.} Experiments in Fluids.
+
+    \item \small  R. W. Morse, J. Chan, E. T. Hurlburt, J.M. Le Corre, A. Berson, G. F. Nellis, K. M. Dressler (under review). \textit{A new paradigm for the role of disturbance waves and wall heat transfer in annular two-phase flow.} International Journal of Heat and Mass Transfer.
+    
+    \item \small  R. W. Morse, J. Chan, K. M. Dressler, E. T. Hurlburt, G. F. Nellis, and A. Berson (under review). \textit{Critical heat flux, liquid-film dryout, and disturbance waves under pulsed vapor conditions in two-phase annular flow.} Experimental Thermal and Fluid Science. 
+  
+    \item \small  R. W. Morse, T.A. Moreira, J. Chan, K. M. Dressler, G. Ribatski, E. T. Hurlburt, L.L. McCarroll, G. F. Nellis, and A. Berson (2021). \textit{Critical Heat Flux and the Dryout of Liquid Film in Two-phase Annular Flow.} Int. J. Heat and Mass Transfer.
+    
+    \item \small Jason Chan (2020). \textit{Thermoreflectance for the Instantaneous Measurement of Temperature at a Wall-Vapor Interface.} Master's thesis. University of Wisconsin - Madison.
+    
+    \item \small B. F. Fehring, R. W. Morse, J. Chan, K. Dressler, E. T. Hurlburt, G. F. Nellis, and A. Berson (2020). \textit{Instantaneous optical measurement of the temperature at the interface between a wall and a thin liquid film.} Journal of Heat Transfer.
+    
+    \item \small K. R. Jinkins, J. Chan, R. M. Jacobberger, A. Berson, and M. S. Arnold (2018). \textit{Substrate-Wide Confined Shear Alignment of Carbon Nanotubes for Thin Film Transistors.} Advanced Electronic Materials.
+    
+    \item \small K. R. Jinkins, J. Chan, G. J. Brady, K. K. Gronski, P. Gopalan, H. T. Evensen, A. Berson, and M. S. Arnold (2017). \textit{Nanotube Alignment Mechanism in Floating Evaporative Self-Assembly.} Langmuir.
+
+\end{itemize}
+%%%%%%%%%%%%%%
+\section{CONFERENCE PROCEEDINGS}
+\begin{itemize}
+\itemsep0em 
+  \item \small  J. Chan, R. W. Morse, K. Dressler, G. F. Nellis, A. Berson.  \textit{Liquid-Film Flow Rate From Measurements of Disturbance Wave Characteristics for Applications in Two-Phase Annular Flow.} ASME Summer Heat Transfer Conference. Washington, DC. 2023
+
+  \item \small J. Chan, B. Fehring, R. W. Morse, K. M. Dressler, G. F. Nellis, A. Berson. \textit{Thermoreflectance Wall Temperature Measurement in Annular Two-Phase Flow.} APS Division of Fluid Dynamics. Atlanta, GA. 2018.
+  
+\end{itemize}
+
+
+
+
 
 %
 %-----------Interests-----------
@@ -282,5 +280,24 @@ Experienced in flow boiling experiments using optical measurement techniques. Fa
  \end{itemize}
 %-------------------------------------------
 
+%\clearpage
+\section{REFERENCES}
+\begin{itemize}
+\itemsep0em 
+  \item[] \small \textbf{Prof. Gregory F. Nellis} - Solar Energy Lab at UW-Madison\\
+  Email: gfnellis@engr.wisc.edu
+  \item[] \small \textbf{Dr. Arganthaël Berson} - Solar Energy Lab at UW-Madison\\
+  Email: arganthael.berson@wisc.edu
+  \item[] \small \textbf{Dr. Evan T. Hurlburt} - Naval Nuclear Laboratory\\
+  Email: evan.hurlburt@unnpp.gov
+  \item[] \small \textbf{Dr. Jean-Marie LeCorre} - Westinghouse Electric\\
+  Email: lecorrjm@westinghouse.com
+  \item[] \small \textbf{Dr. Michael Cheadle} - UW-Madison\\
+  Email: mcheadle@wisc.edu
+  \item[] \small \textbf{Prof. Scott Sanders} - Engine Research Center at UW-Madison\\
+  Email: stsanders@wisc.edu
+  \item[] \small \textbf{Dr. Tiago A. Moreira} - Thermal Hydraulics Laboratory at UW-Madison\\
+  Email: tmoreira@wisc.edu
+\end{itemize}
 
 \end{document}

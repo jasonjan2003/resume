@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1695321715 "JasonChan_CV.tex" "JasonChan_CV.pdf" "JasonChan_CV" 1695321717 0
+["pdflatex"] 1696439588 "JasonChan_CV.tex" "JasonChan_CV.pdf" "JasonChan_CV" 1696439589 0
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmbx12.tfm" 1136765053 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "C:/Program Files/MiKTeX/fonts/tfm/public/cm/cmcsc10.tfm" 1136765053 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -84,9 +84,9 @@
   "C:/Users/cchan/AppData/Roaming/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/cchan/AppData/Roaming/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/cchan/AppData/Roaming/MiKTeX/tex/latex/titlesec/titlesec.sty" 1625497667 48833 3b7b4cfab1a3d15596bfd3772a77ab65 ""
-  "JasonChan_CV.aux" 1695321717 1617 5a1b18f6fd9d1d28acec2ecba47a6449 "pdflatex"
-  "JasonChan_CV.out" 1695321717 946 551402781e080f036e3490782856755e "pdflatex"
-  "JasonChan_CV.tex" 1695321707 13417 fe0a6d88971d595d191f754527dc5b29 ""
+  "JasonChan_CV.aux" 1696439588 1617 5a1b18f6fd9d1d28acec2ecba47a6449 "pdflatex"
+  "JasonChan_CV.out" 1696439588 946 551402781e080f036e3490782856755e "pdflatex"
+  "JasonChan_CV.tex" 1696438915 13515 61974a043cc816c5be9aca230327ab91 ""
   (generated)
   "JasonChan_CV.aux"
   "JasonChan_CV.log"

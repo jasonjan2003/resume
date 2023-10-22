@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.19)  4 OCT 2023 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.19)  22 OCT 2023 13:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -387,11 +387,11 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 141.
+(Font)              <10.95> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 141.
+(Font)              <8> on input line 144.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 141.
+(Font)              <6> on input line 144.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -401,7 +401,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/Jason/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 3735) in paragraph at lines 208--208
+Underfull \hbox (badness 3735) in paragraph at lines 211--211
 []\OT1/cmr/m/n/10.95 Vertical milling ma-chines (CNC, man-ual), Lathe work (CNC
 , man-ual; metal),
  []

@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.19)  4 OCT 2023 01:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.6.19)  22 OCT 2023 13:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**C:/Users/Jason/Documents/resume/JasonChan_CV.tex
-(C:/Users/Jason/Documents/resume/JasonChan_CV.tex
+**C:/Users/Jason/Documents/resume/references.tex
+(C:/Users/Jason/Documents/resume/references.tex
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-16>
 (C:\Users\Jason\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls
@@ -330,8 +330,8 @@ LaTeX Info: Redefining \_ on input line 43.
 File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box55
-) (JasonChan_CV.aux)
-\openout1 = `JasonChan_CV.aux'.
+) (references.aux)
+\openout1 = `references.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 115.
 LaTeX Font Info:    ... okay on input line 115.
@@ -368,9 +368,9 @@ f.mkii
 \everyMPtoPDFconversion=\toks26
 )
 Package hyperref Info: Link coloring OFF on input line 115.
- (JasonChan_CV.out) (JasonChan_CV.out)
+ (references.out) (references.out)
 \@outlinefile=\write3
-\openout3 = `JasonChan_CV.out'.
+\openout3 = `references.out'.
 
 
 
@@ -386,13 +386,6 @@ LaTeX Font Info:    Trying to load font information for U+lasy on input line 12
 (C:\Users\Jason\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 141.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 141.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 141.
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 4.08003pt, for example:
@@ -401,25 +394,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 [1
 
 {C:/Users/Jason/AppData/Local/MiKTeX/2.9/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 3735) in paragraph at lines 208--208
-[]\OT1/cmr/m/n/10.95 Vertical milling ma-chines (CNC, man-ual), Lathe work (CNC
-, man-ual; metal),
- []
-
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[2
-
-]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 4.08003pt, for example:
-(fancyhdr)                \setlength{\footskip}{4.08003pt}.
-
-[3] (JasonChan_CV.aux)
+(references.aux)
  ***********
 LaTeX2e <2023-06-01>
 L3 programming layer <2023-06-16>
@@ -428,30 +403,26 @@ L3 programming layer <2023-06-16>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package rerunfilecheck Info: File `JasonChan_CV.out' has not changed.
-(rerunfilecheck)             Checksum: 551402781E080F036E3490782856755E;946.
+Package rerunfilecheck Info: File `references.out' has not changed.
+(rerunfilecheck)             Checksum: CFCB6BD6199ECEEEDE3DD85A33564005;93.
  ) 
 Here is how much of TeX's memory you used:
- 10648 strings out of 476038
- 169051 string characters out of 5777950
- 1878749 words of memory out of 5000000
- 31243 multiletter control sequences out of 15000+600000
- 518979 words of font info for 56 fonts, out of 8000000 for 9000
+ 10596 strings out of 476038
+ 168314 string characters out of 5777950
+ 1862749 words of memory out of 5000000
+ 31210 multiletter control sequences out of 15000+600000
+ 515530 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,353b,570s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,11n,79p,326b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Jason/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/Jason/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/Jason/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Jason/AppData/Local/Program
 s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Jason/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Jaso
-n/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><
-C:/Users/Jason/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmsy6.pfb><C:/Users/Jason/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmti10.pfb>
-Output written on JasonChan_CV.pdf (3 pages, 128727 bytes).
+ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on references.pdf (1 page, 69890 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 13 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 42 PDF objects out of 1000 (max. 8388607)
+ 3 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
